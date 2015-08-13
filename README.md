@@ -1,4 +1,4 @@
 # nervous-matrix
 A tiny library to handle matrix manipulation.
 
-This library doesn't work. The source file is only here to preserve it.
+# This library doesn't work. Source files are only here for preservation.
